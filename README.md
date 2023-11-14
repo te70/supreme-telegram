@@ -31,3 +31,10 @@
 
 - The correlation between vote average and popularity is a negative correlation. The titles with popularity averaging 5 have lower vote average
 
+## Tech stack
+<p>
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />               
+</p>
+
+
